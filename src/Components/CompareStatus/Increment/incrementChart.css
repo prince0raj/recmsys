@@ -1,0 +1,12 @@
+.increment-wrapper {
+    padding: 0px 30px;
+}
+
+.incrementChart-container {
+    border-radius: 25px;
+    background: linear-gradient(45deg, #e3e3e3, #ffffff);
+    box-shadow: 9px -9px 18px #dbdbdb,
+        -9px 9px 18px #ffffff;
+    margin: 10px;
+    width: 100%;
+}
